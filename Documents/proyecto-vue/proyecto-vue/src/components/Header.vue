@@ -1,6 +1,6 @@
 <template>
     <div class="header">
-        <h1>La temperatura actual es: <Weather /> </h1>
+        <h3>La temperatura actual es: <Weather /> </h3>
     </div>
 </template>
 

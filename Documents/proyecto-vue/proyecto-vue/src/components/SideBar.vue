@@ -25,6 +25,5 @@ const registrarStore = useRegistrarStore();
     color: #FFF;
     padding: 20px;
     margin: auto;
-    margin-left: auto;
 }
 </style>
